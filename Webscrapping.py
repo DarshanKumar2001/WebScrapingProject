@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-product_to_track = [
+product_to_track = 
+[
     {
         "URL": "https://www.amazon.in/Samsung-Galaxy-Space-Black-Storage/dp/B07HGLM366/ref=sr_1_1?keywords=m31&qid=1637578855&qsid=257-3591481-4383748&sr=8-1&sres=B07HGLM366%2CB08X4XW41P%2CB09CGJK2HG%2CB09J2HZQZH%2CB08ZJRRLKC%2CB096VD213D%2CB096LRGL64%2CB098NFJXXL%2CB098NGDNMT%2CB098NHMPJJ%2CB096VD6RQG%2CB08XGDN3TZ%2CB09GFMFTHS%2CB096LS7N6Z%2CB08444SXZ6%2CB08XJG8MQM&srpt=CELLULAR_PHONE",
         "name":"Samsung Galaxy M31 Space Black, 8GB RAM, 128GB Storage",
